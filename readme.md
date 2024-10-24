@@ -14,8 +14,6 @@
 
 </p>
 
-## Fluxo da Pipeline
-
 <p align="center" width="100%">
   
 </p>
