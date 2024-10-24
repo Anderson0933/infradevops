@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/buildrun-tech/buildrun-infra-terraform-pipeline/blob/main/images/thumbnail.png"> 
+   
 </p>
 
 
@@ -17,11 +17,11 @@
 ## Fluxo da Pipeline
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/buildrun-tech/buildrun-infra-terraform-pipeline/blob/main/images/fluxo.png"> 
+  
 </p>
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/buildrun-tech/buildrun-infra-terraform-pipeline/blob/main/images/fluxo-detail.png"> 
+    
 </p>
 
 ## Como começar?
@@ -35,9 +35,9 @@
 
 :mag: Baixe o projeto e teste você mesmo na prática.
 
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
 
-Developed by Build & Run
+
+Developed by Anderson Casimiro
 
 ### Referências
 
