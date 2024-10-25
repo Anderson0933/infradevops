@@ -14,7 +14,7 @@ jobs:
     uses: ./.github/workflows/terraform.yml
     with:
       environment: dev
-      aws-assume-role-arn: "arn:aws:iam::{{ sua conta aws }}:role/{{ nome da role }}"
+      aws-assume-role-arn: "arn:aws:iam::211125750247:role/github-actions-Anderson0933-pipeline"
       aws-region: "sa-east-1"
-      aws-statefile-s3-bucket: "{{ nome do bucket s3 }}"
-      aws-lock-dynamodb-table: "{{ nome da tabela do dynamodb }}"
+      aws-statefile-s3-bucket: "anderson0933-sa-east-1-terrafome-statefile"
+      aws-lock-dynamodb-table: "anderson0933-sa-east-1-terraform-lock"
